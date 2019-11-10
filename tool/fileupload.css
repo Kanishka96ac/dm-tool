@@ -1,0 +1,29 @@
+body {
+  background-image: url("./img1.jpg");
+  background-size: cover;
+  font-size: 18px !important;
+  font-weight: 400 !important;
+  color: black !important;
+}
+
+.card {
+  background-color: #dfdfdf3d !important;
+  border-radius: 20px !important;
+}
+
+.card-container {
+  margin: 0 auto;
+  margin-top: 6%;
+}
+
+.card-content {
+  padding: 30px;
+}
+
+.heading {
+  text-shadow: 5px 5px 10px #ff3324ec;
+  font-size: 50px;
+  color: #ff411f;
+  text-align: center;
+  margin-top: 9%;
+}
